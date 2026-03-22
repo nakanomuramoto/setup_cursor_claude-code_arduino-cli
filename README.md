@@ -369,3 +369,9 @@ Windows 11
 ---
 
 *作成: Claude Code + Claude (Anthropic)*
+
+---
+
+## 参考動画
+
+- [CursorエディターでClaude Codeを動かす](https://youtu.be/WxiSVc7muVM?si=mRzUa5MiKB8gq7SF)
