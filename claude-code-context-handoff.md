@@ -112,4 +112,17 @@ claude --resume セッションID
 
 ---
 
+## 別PCでの作業手順
+① GitHub からリポジトリをクローン
+git clone https://github.com/nakanomuramoto/setup_cursor_claude-code_arduino-cli.git
+
+② フォルダに移動
+cd setup_cursor_claude-code_arduino-cli
+
+③ Claude Code を起動
+claude
+
+④ Claude Code パネルに入力
+「CLAUDE.mdの内容を確認して、このPCでも同じ環境を構築してください」
+
 *作成: Claude (Anthropic)*
